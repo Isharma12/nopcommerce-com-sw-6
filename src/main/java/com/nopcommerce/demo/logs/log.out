@@ -1,0 +1,54 @@
+2023-12-18 21:12:141 INFO  HomePage :118 - Clicking on Computers Tab link : [[ChromeDriver: chrome on windows (a6532a88d9229f74fe6a385d71728a1a)] -> link text: Computers]
+2023-12-18 21:12:262 INFO  ComputerPage :42 - Get Computer Text : Computers
+2023-12-18 21:12:768 INFO  HomePage :118 - Clicking on Computers Tab link : [[ChromeDriver: chrome on windows (32ed6c2a5bd592cb91ea548ba4529f2c)] -> link text: Computers]
+2023-12-18 21:12:633 INFO  ComputerPage :48 - Get Desktops Link text : Desktops
+2023-12-18 21:12:07 INFO  HomePage :118 - Clicking on Computers Tab link : [[ChromeDriver: chrome on windows (c306e0d0aa8543c881bc51a17218bacc)] -> link text: Computers]
+2023-12-18 21:12:690 INFO  BuildYourOwnComputerPage :57 - Clicking on Build Your Own Computer link : [[ChromeDriver: chrome on windows (c306e0d0aa8543c881bc51a17218bacc)] -> xpath: //h1]
+2023-12-18 21:12:859 INFO  BuildYourOwnComputerPage :63 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2023-12-18 21:12:10 INFO  BuildYourOwnComputerPage :68 - Select RAM '2 GB'
+2023-12-18 21:12:128 INFO  BuildYourOwnComputerPage :75 - Select HDD '320 GB'
+2023-12-18 21:12:252 INFO  BuildYourOwnComputerPage :85 - Select HDD 'Vista Home [+$50.00]'
+2023-12-18 21:12:386 INFO  BuildYourOwnComputerPage :95 - Select Software '[[ChromeDriver: chrome on windows (c306e0d0aa8543c881bc51a17218bacc)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-18 21:12:472 INFO  BuildYourOwnComputerPage :103 - Click on 'ADD TO CART' Button
+2023-12-18 21:12:49 INFO  BuildYourOwnComputerPage :108 - Get 'Product Added' message : The product has been added to your shopping cart
+2023-12-18 21:12:637 INFO  HomePage :118 - Clicking on Computers Tab link : [[ChromeDriver: chrome on windows (d64c24b7b7239c9cff4344227c13ba33)] -> link text: Computers]
+2023-12-18 21:12:344 INFO  BuildYourOwnComputerPage :57 - Clicking on Build Your Own Computer link : [[ChromeDriver: chrome on windows (d64c24b7b7239c9cff4344227c13ba33)] -> xpath: //h1]
+2023-12-18 21:12:85 INFO  BuildYourOwnComputerPage :63 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-18 21:12:309 INFO  BuildYourOwnComputerPage :68 - Select RAM '4GB [+$20.00]'
+2023-12-18 21:12:428 INFO  BuildYourOwnComputerPage :75 - Select HDD '400 GB [+$100.00]'
+2023-12-18 21:12:556 INFO  BuildYourOwnComputerPage :85 - Select HDD 'Vista Premium [+$60.00]'
+2023-12-18 21:12:683 INFO  BuildYourOwnComputerPage :95 - Select Software '[[ChromeDriver: chrome on windows (d64c24b7b7239c9cff4344227c13ba33)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-18 21:12:805 INFO  BuildYourOwnComputerPage :103 - Click on 'ADD TO CART' Button
+2023-12-18 21:12:370 INFO  BuildYourOwnComputerPage :108 - Get 'Product Added' message : The product has been added to your shopping cart
+2023-12-18 21:12:717 INFO  HomePage :118 - Clicking on Computers Tab link : [[ChromeDriver: chrome on windows (9b7573fa61584a63ee749e348b4a2b47)] -> link text: Computers]
+2023-12-18 21:12:471 INFO  BuildYourOwnComputerPage :57 - Clicking on Build Your Own Computer link : [[ChromeDriver: chrome on windows (9b7573fa61584a63ee749e348b4a2b47)] -> xpath: //h1]
+2023-12-18 21:12:385 INFO  BuildYourOwnComputerPage :63 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-18 21:12:504 INFO  BuildYourOwnComputerPage :68 - Select RAM '8GB [+$60.00]'
+2023-12-18 21:12:621 INFO  BuildYourOwnComputerPage :75 - Select HDD '320 GB'
+2023-12-18 21:12:725 INFO  BuildYourOwnComputerPage :85 - Select HDD 'Vista Home [+$50.00]'
+2023-12-18 21:12:909 INFO  BuildYourOwnComputerPage :95 - Select Software '[[ChromeDriver: chrome on windows (9b7573fa61584a63ee749e348b4a2b47)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-18 21:12:13 INFO  BuildYourOwnComputerPage :103 - Click on 'ADD TO CART' Button
+2023-12-18 21:12:572 INFO  BuildYourOwnComputerPage :108 - Get 'Product Added' message : The product has been added to your shopping cart
+2023-12-18 21:12:642 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (a1ef4d66caab1ceb48214925e10dc127)] -> link text: Log in]
+2023-12-18 21:12:390 INFO  LoginPage :37 - Getting text from : [[ChromeDriver: chrome on windows (a1ef4d66caab1ceb48214925e10dc127)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 21:12:290 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (e7cabc782619e4814444ec6e9dda9e1f)] -> link text: Log in]
+2023-12-18 21:12:147 INFO  LoginPage :43 - Enter EmailId 'prime123@gmail.com' to emailField : 
+2023-12-18 21:12:306 INFO  LoginPage :48 - Enter Password 'abc123' to password field : 
+2023-12-18 21:12:838 INFO  LoginPage :53 - Click on loginButton
+2023-12-18 21:12:921 INFO  LoginPage :58 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2023-12-18 21:12:02 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (93d5b57408abe15708de68bac0187d27)] -> link text: Log in]
+2023-12-18 21:12:935 INFO  LoginPage :43 - Enter EmailId 'xyz123@gmail.com' to emailField : 
+2023-12-18 21:12:105 INFO  LoginPage :48 - Enter Password 'Abc123' to password field : 
+2023-12-18 21:12:589 INFO  LoginPage :53 - Click on loginButton
+2023-12-18 21:12:504 INFO  HomePage :74 - Clicking on login link : [[ChromeDriver: chrome on windows (53d4a6b9994fcc80b3ca564f98e80a26)] -> link text: Log in]
+2023-12-18 21:12:203 INFO  LoginPage :43 - Enter EmailId 'xyz123@gmail.com' to emailField : 
+2023-12-18 21:12:331 INFO  LoginPage :48 - Enter Password 'Abc123' to password field : 
+2023-12-18 21:12:780 INFO  LoginPage :53 - Click on loginButton
+2023-12-18 21:12:715 INFO  HomePage :79 - Clicking on register link : [[ChromeDriver: chrome on windows (3c327ef31d5e73f680480044a91d7b8e)] -> link text: Register]
+2023-12-18 21:12:516 INFO  HomePage :79 - Clicking on register link : [[ChromeDriver: chrome on windows (60be3e93c2b161bd5fb3c8736fa479e7)] -> link text: Register]
+2023-12-18 21:12:607 INFO  RegisterPage :171 - Click on 'REGISTER' button
+2023-12-18 21:12:897 INFO  HomePage :79 - Clicking on register link : [[ChromeDriver: chrome on windows (63ccb7d9909561fb1f627e631b7444ae)] -> link text: Register]
+2023-12-18 21:12:568 INFO  RegisterPage :123 - Select 'Female' radio button
+2023-12-18 21:12:771 INFO  RegisterPage :132 - Enter Firstname : 'Indu' to firstName field
+2023-12-18 21:12:01 INFO  RegisterPage :137 - Enter Lastname : 'Sharma' to lastName field
